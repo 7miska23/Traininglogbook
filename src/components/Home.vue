@@ -1,4 +1,5 @@
 <template>
+<!-- eslint-disable -->
   <div id="home">
     <ul class="collection with-header">
       <li class="collection-header"><h1>Workouts</h1>
