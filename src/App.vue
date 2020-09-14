@@ -1,4 +1,5 @@
 <template>
+<!-- eslint-disable -->
   <div id="app">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <router-link class="navbar-brand" to='/'>Train.me</router-link>
