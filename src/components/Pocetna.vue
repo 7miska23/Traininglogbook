@@ -1,4 +1,5 @@
 <template> 
+<!-- eslint-disable -->
 <div class="container">
   <div class="jumbotron">
     <h1><b>Train.me</b></h1>
