@@ -1,4 +1,5 @@
 <template>
+<!-- eslint-disable -->
   <div>
     <div>
       <h1>Workouts</h1>
